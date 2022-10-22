@@ -1,0 +1,16 @@
+/*  The most optimum algorithm scales in constant time and space. This means it does not care at all about the growth of its inputs. Next best is logarithmic time or space, then linear, linearithmic, quadratic, and exponential. The worst is factorial time or space. In Big-O notation:
+
+Constant: O(1)
+Logarithmic: O(log n)
+Linear: O(n)
+Linearithmic: O(n log n)
+Quadratic: O(n²)
+Expontential: O(2^n)
+Factorial: O(n!)
+*/
+
+------------------ PRACTICE  -----------------
+#1 Palindromes
+Given a string, return true if the string is a palindrome or false if it is not. Palindromes are strings that form the same word if it is reversed. 
+
+
