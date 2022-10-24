@@ -14,3 +14,6 @@ Factorial: O(n!)
 Given a string, return true if the string is a palindrome or false if it is not. Palindromes are strings that form the same word if it is reversed. 
 
 
+#2 calculate the sum of an array
+Write an algorithm that takes an array of numbers as input and calculates the sum of those numbers.
+Define the Time Complexity if that algorithm and determine what the lowest possible Time Complexity is for this problem.
